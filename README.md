@@ -20,3 +20,16 @@ DataSet: [https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria](htt
 ![Uninfected](img/2022-01-17_12-40-04.png)
 
 ![Parasitized](img/2022-01-17_12-40-26.png)
+
+
+## Demo
+
+Watch the demo video.
+
+[![Personalised Voice Assistant Demo Vidoe](https://img.youtube.com/vi/EgxeWDbgcBM/0.jpg)](https://youtu.be/EgxeWDbgcBM)
+
+OR 
+
+GET the drive link.
+
+![https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing](https://drive.google.com/file/d/1u1lKQIBX17h7568eAW__QHWnovtvwJlc/view?usp=sharing)
